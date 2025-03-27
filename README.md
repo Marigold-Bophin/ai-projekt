@@ -31,7 +31,7 @@ Patients, general practitioners, or dermatologists can upload a photo of a skin 
 
 ### Example of skin problems:
 
-<img src="[https://www.proalergiky.cz/obrazky/ekzem.jpg](https://www.proalergiky.cz/CMTrade/media/static-media/9d95e4be-19b7-496b-8f8c-2294adbfda2b@w1200.webp)" width="400">
+<img src="https://www.proalergiky.cz/CMTrade/media/static-media/9d95e4be-19b7-496b-8f8c-2294adbfda2b@w1200.webp" width="400">
 
 ## Data sources and AI methods
 
