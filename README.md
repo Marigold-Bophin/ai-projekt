@@ -29,9 +29,9 @@ Patients, general practitioners, or dermatologists can upload a photo of a skin 
 3. The system predicts the condition (e.g., eczema, psoriasis, melanoma).
 4. The user receives a risk assessment and a recommendation to consult a specialist if necessary.
 
-### Example:
+### Example of skin problems:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Melanoma.jpg" width="400">
+<img src="[https://www.proalergiky.cz/obrazky/ekzem.jpg](https://www.proalergiky.cz/CMTrade/media/static-media/9d95e4be-19b7-496b-8f8c-2294adbfda2b@w1200.webp)" width="400">
 
 ## Data sources and AI methods
 
