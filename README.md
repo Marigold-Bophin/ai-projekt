@@ -1,72 +1,68 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+<!-- Toto je šablona markdown pro závěrečný projekt kurzu Building AI, 
+vytvořeného společností Reaktor Innovations a Helsinskou univerzitou. 
+Zkopírujte šablonu, vložte ji do svého README na GitHubu a upravte! -->
 
-# SkinAI: AI-powered Skin Disease Diagnosis
+# SkinAI: Diagnostika kožních onemocnění na bázi umělé inteligence
 
-Final project for the Building AI course
+Závěrečný projekt kurzu Building AI
 
-## Summary
+## Shrnutí
+SkinAI je systém poháněný umělou inteligencí, který předpovídá a klasifikuje kožní onemocnění na základě analýzy obrazu. Využitím hlubokého učení a databází lékařských snímků pomáhá dermatologům a praktickým lékařům při včasné diagnostice, která může zabránit závažným onemocněním, jako je například melanom.
 
-SkinAI is an AI-powered system that predicts and classifies skin diseases based on image analysis. By utilizing deep learning and medical image databases, it helps dermatologists and general practitioners in early diagnosis, potentially preventing serious conditions like melanoma.
+## Pozadí
 
-## Background
+Kožní onemocnění postihují miliony lidí na celém světě, od mírných stavů, jako je ekzém, až po život ohrožující melanom. Včasné odhalení je nezbytné pro úspěšnou léčbu, ale přístup k dermatologům je často omezený.
 
-Skin diseases affect millions worldwide, ranging from mild conditions like eczema to life-threatening melanoma. Early detection is crucial for successful treatment, but access to dermatologists is often limited.
+* Miliony lidí trpí nediagnostikovanými nebo nesprávně diagnostikovanými kožními chorobami.
+* Mnoha případům melanomu a dalších závažných onemocnění by se dalo předejít včasným odhalením.
+* Dermatologů je na celém světě nedostatek, což vede k dlouhým čekacím lhůtám pro pacienty.
 
-* Millions of people suffer from undiagnosed or misdiagnosed skin conditions.
-* Many cases of melanoma and other serious diseases could be prevented with early detection.
-* There is a global shortage of dermatologists, leading to long wait times for patients.
+Jako člověk, který se zajímá o využití umělé inteligence ve zdravotnictví, vidím v tomto projektu příležitost ke zlepšení lékařské diagnostiky a dostupnosti včasného odhalení kožních onemocnění.
 
-As someone interested in AI applications in healthcare, I see this project as an opportunity to improve medical diagnostics and accessibility to early skin disease detection.
 
-## How is it used?
+## Jak se používá?
 
-Patients, general practitioners, or dermatologists can upload a photo of a skin lesion or affected area. The AI model analyzes the image and provides a classification along with recommendations.
+Pacienti, praktičtí lékaři nebo dermatologové mohou nahrát fotografii kožní léze nebo postiženého místa. Model umělé inteligence obrázek analyzuje a poskytuje
 
-1. The user uploads an image of the affected skin area.
-2. The AI model processes the image using deep learning.
-3. The system predicts the condition (e.g., eczema, psoriasis, melanoma).
-4. The user receives a risk assessment and a recommendation to consult a specialist if necessary.
-
-### Example of skin problems:
+### Ukázky kožního onemocnění
 
 <img src="https://www.proalergiky.cz/CMTrade/media/static-media/9d95e4be-19b7-496b-8f8c-2294adbfda2b@w1200.webp" width="400">
+<img src="https://www.dermanet.cz/files/obrazky/choroby/melanom-foto2.jpg" width="400">
 
-## Data sources and AI methods
+## Datové zdroje a AI metody
 
-Data is collected from:
-* Open medical image databases such as [ISIC Archive](https://www.isic-archive.com/).
-* Publicly available dermatological research papers.
-* Synthetic data generation to improve AI training.
+Údaje jsou shromažďovány z:
+* [ISIC Archive](https://www.isic-archive.com/).
+* Veřejně dostupné dermatologické výzkumné práce.
+* Generování syntetických dat pro zlepšení tréninku umělé inteligence.
 
-Methods:
-* **Deep Learning** – Convolutional Neural Networks (CNN) for image classification.
-* **Transfer Learning** – Using pre-trained models like ResNet and EfficientNet.
-* **Data Augmentation** – Increasing dataset diversity for better accuracy.
+Metody:
+* **Hluboké učení** - konvoluční neuronové sítě (CNN) pro klasifikaci obrázků.
+* **Transferové učení** - použití předtrénovaných modelů, jako jsou ResNet a EfficientNet.
+* **Rozšíření dat** - zvýšení rozmanitosti datové sady pro dosažení vyšší přesnosti.
 
-| AI Method       | Use Case |
+| Metoda umělé inteligence | Případ použití
 | -------------- | --------------------- |
-| CNNs | Skin disease classification |
-| Transfer Learning | Improving accuracy with pre-trained models |
-| Data Augmentation | Enhancing model robustness |
+| CNN | Klasifikace kožních onemocnění |
+| Učení přenosem | Zlepšení přesnosti pomocí předem vyškolených modelů |
+| Rozšíření dat | Zlepšení robustnosti modelu |
 
-## Challenges
+## Výzvy
 
-* Accuracy depends on the quality and diversity of the dataset.
-* AI cannot replace medical professionals—only assist them.
-* Ethical concerns regarding the collection and use of medical images.
-* Bias in datasets (limited representation of different skin tones).
+* Přesnost závisí na kvalitě a rozmanitosti souboru dat.
+* Umělá inteligence nemůže nahradit lékařské odborníky, pouze jim pomáhat.
+* Etické otázky týkající se shromažďování a používání lékařských snímků.
+* Zkreslení souborů dat (omezené zastoupení různých odstínů pleti).
 
-## What next?
+## Co dál?
 
-* Integration into mobile applications for real-time skin analysis.
-* Expansion of the dataset with more diverse skin types and conditions.
-* Collaboration with dermatologists to improve model performance.
-* Regulatory approval to ensure safety and reliability for medical use.
+* Integrace do mobilních aplikací pro analýzu kůže v reálném čase.
+* Rozšíření souboru dat o rozmanitější typy a stavy kůže.
+* Spolupráce s dermatology s cílem zlepšit výkonnost modelu.
+* Regulační schválení k zajištění bezpečnosti a spolehlivosti pro lékařské použití.
 
-## Acknowledgments
+## Poděkování
 
-* Inspired by AI applications in medical diagnostics.
-* Data sourced from ISIC Archive and other open medical datasets.
-* Example AI-driven diagnostic tools: [SkinVision](https://www.skinvision.com/), [Dermoscopy AI](https://www.dermoscopy.ai/).
+* Inspirace aplikacemi umělé inteligence v lékařské diagnostice.
+* Data pocházejí z archivu ISIC a dalších otevřených souborů lékařských dat.
+* Příklady diagnostických nástrojů řízených umělou inteligencí: [SkinVision](https://www.skinvision.com/), [Dermoscopy AI](https://www.dermoscopy.ai/).
