@@ -22,7 +22,9 @@ Jako člověk, který se zajímá o využití umělé inteligence ve zdravotnict
 
 ## Jak se používá?
 
-Pacienti, praktičtí lékaři nebo dermatologové mohou nahrát fotografii kožní léze nebo postiženého místa. Model umělé inteligence obrázek analyzuje a poskytuje
+Pacienti, praktičtí lékaři nebo dermatologové mohou nahrát fotografii kožní léze nebo postiženého místa. Model umělé inteligence obrázek analyzuje a poskytuje klasifikaci pravděpodobného kožního onemocnění (např. ekzém, lupénka, melanom) společně s doporučením, zda je vhodné vyhledat odbornou lékařskou pomoc.
+
+
 
 ### Ukázky kožního onemocnění
 
