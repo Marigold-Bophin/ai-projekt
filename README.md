@@ -33,11 +33,11 @@ Systém může být nasazen v různých prostředích:
 
 Je důležité zohlednit potřeby všech zúčastněných stran:
 
-* Pacienti očekávají jednoduché a srozumitelné rozhraní, ochranu soukromí a jasné doporučení.
+* pacienti očekávají jednoduché a srozumitelné rozhraní, ochranu soukromí a jasné doporučení,
 
-* Lékaři potřebují spolehlivý nástroj, který jim pomůže v rozhodovacím procesu, ale nebude nahrazovat jejich odbornost.
+* lékaři potřebují spolehlivý nástroj, který jim pomůže v rozhodovacím procesu, ale nebude nahrazovat jejich odbornost,
 
-* Vývojáři a zdravotnické instituce musí zajistit, že systém bude bezpečný, přesný a splní všechna etická a legislativní pravidla.
+* vývojáři a zdravotnické instituce musí zajistit, že systém bude bezpečný, přesný a splní všechna etická a legislativní pravidla.
 
 
 ### Ukázky kožního onemocnění
