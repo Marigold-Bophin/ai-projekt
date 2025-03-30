@@ -44,7 +44,7 @@ Je důležité zohlednit potřeby všech zúčastněných stran:
 
 <img src="https://www.proalergiky.cz/CMTrade/media/static-media/9d95e4be-19b7-496b-8f8c-2294adbfda2b@w1200.webp" width="400"> *Obr. 1: Ukázka kožního onemocnění – ekzém*
 <img src="https://www.dermanet.cz/files/obrazky/choroby/melanom-foto2.jpg" width="400"> *Obr. 2: Ukázka kožního onemocnění – melanom*
-<img src="https://www.dermanet.cz/files/obrazky/choroby/psoriaza_nehtu.jpg" width="400"> *Obr. 2: Ukázka kožního onemocnění – lupénka nehtů*
+<img src="https://www.dermanet.cz/files/obrazky/choroby/psoriaza_nehtu.jpg" width="400"> *Obr. 3: Ukázka kožního onemocnění – lupénka nehtů*
 
 ## Datové zdroje a AI metody
 
