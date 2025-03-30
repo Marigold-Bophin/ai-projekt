@@ -63,7 +63,7 @@ Metody:
 | Učení přenosem | Zlepšení přesnosti pomocí předem vyškolených modelů |
 | Rozšíření dat | Zlepšení robustnosti modelu |
 
-## Výzvy
+## Výzvy a omezení
 
 * Přesnost závisí na kvalitě a rozmanitosti souboru dat.
 * Umělá inteligence nemůže nahradit lékařské odborníky, pouze jim pomáhat.
