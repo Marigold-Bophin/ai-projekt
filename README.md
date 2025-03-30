@@ -60,7 +60,7 @@ Metody:
 
 | Metoda umělé inteligence | Případ použití
 | -------------- | --------------------- |
-| CNN | Klasifikace kožních onemocnění |
+| CNN (konvoluční neuronová síť) | Klasifikace kožních onemocnění |
 | Učení přenosem | Zlepšení přesnosti pomocí předem vyškolených modelů |
 | Rozšíření dat | Zlepšení robustnosti modelu |
 
