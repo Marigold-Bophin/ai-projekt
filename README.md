@@ -80,5 +80,5 @@ Metody:
 ## Poděkování
 
 * Inspirace aplikacemi umělé inteligence v lékařské diagnostice.
-* Data pocházejí z archivu ISIC a dalších otevřených souborů lékařských dat.
+* Data pocházejí z archivu ISIC (https://www.isic-archive.com/), Dermatnet (https://www.dermanet.cz/cs/) a dalších otevřených souborů lékařských dat.
 * Příklady diagnostických nástrojů řízených umělou inteligencí: [SkinVision](https://www.skinvision.com/), [Dermoscopy AI](https://www.dermoscopy.ai/).
